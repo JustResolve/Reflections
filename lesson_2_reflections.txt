@@ -7,3 +7,6 @@ The staging area is a subset of files in the working directory and not yet apart
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A branch could be helpful if I am going to make a radical change to the software that will likely take a long time to complete but want to be able to debug a working version at the same time before the big change is done.
 
+How do the diagrams help you visualize the branch structure?
+This seems like a silly question as the intent of a diagram is to help you visualize architectures or concepts.  I am a visual learner though so it suites me well.
+
